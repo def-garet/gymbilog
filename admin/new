@@ -1,0 +1,7 @@
+<?php 
+$dbname = gymnsb;
+$localhost = root;
+$pass = "";
+$
+
+$con = mysqli_connect($dbname, $localhost,$pass);
